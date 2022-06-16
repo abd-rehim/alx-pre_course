@@ -1,2 +1,2 @@
 My First readme
-I made this changedirectly from github text editing panel 
+I made this change directly from github text editing panel 
